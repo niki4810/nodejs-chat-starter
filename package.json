@@ -1,7 +1,7 @@
 {
-  "name": "isomorphicchat",
+  "name": "chat",
   "version": "1.0.0",
-  "description": "An isomorphic node.js chat server",
+  "description": "An realtime node.js chat server with socket.io",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
